@@ -5,7 +5,7 @@ export default function Home() {
 export async function getServerSideProps() {
   return {
     redirect: {
-      destination: 'https://q789.com.pk',
+      destination: 'https://royalcasinoapk.net/',
       permanent: true,
     },
   }
